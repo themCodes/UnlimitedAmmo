@@ -29,4 +29,6 @@ If you fire a chambered bullet from the SK 59/66 and the magazine is empty, the 
 
 2. Copy the mods keyfile, "MartinsMods.bikey", to the servers "keys" directory.
 
-3. Edit the bat file used to start the server and add the mod to the -mod parameter, like: "-mod=@UnlimitedAmmo;@OtherMod1;@OtherMod2" etc.
+3. Edit the bat file used to start the server and add the mod to the -mod parameter, like:
+
+"-mod=@UnlimitedAmmo;@OtherMod1;@OtherMod2" etc.
