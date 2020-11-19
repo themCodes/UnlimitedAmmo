@@ -9,7 +9,7 @@ Permission is granted to do whatever you want with the mod.
 
 
 ## Tested and works with the following versions of DayZ
-- DayZ Stable: 1.09.153419 (2020-09-18)
+- DayZ Stable: 1.10.153569 (2020-11-19)
 - DayZ Experimental: 1.10.153561 (2020-11-12)
 
 
