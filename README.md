@@ -10,7 +10,7 @@ Permission is granted to do whatever you want with the mod.
 
 ## Tested and works with the following versions of DayZ
 - DayZ Stable: 1.10.153576 (2020-11-20)
-- DayZ Experimental: 1.10.153561 (2020-11-12)
+- DayZ Experimental: 1.10.153593 (2020-11-26)
 
 
 ## Change Notes
