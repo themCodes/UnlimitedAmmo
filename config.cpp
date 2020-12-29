@@ -14,7 +14,7 @@ class CfgMods
 	
 	class UnlimitedAmmo
 	{
-		dir			="UnlimitedAmmo";
+		dir		=	"UnlimitedAmmo";
 		name		=	"UnlimitedAmmo";
 		credits		=	"Martin";
 		author		=	"Martin";
