@@ -1,4 +1,4 @@
-# UnlimitedAmmo
+# UnlimitedAmmo test
 
 ## Description
 When the rounds in the magazine drop to 5 or below, the number of rounds is reset to the max capacity of the magazine.
